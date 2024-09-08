@@ -12,7 +12,7 @@ This solution aims to leverage AI to transform bureaucratic government content i
 ![High level Solution](diagram.png)
 
 
-### Fully Functional Demo App:
+### Demo App:
 You can access fully functional application at [**KoalaAI**](https://dev.digionboard.centelon.com/govhack)
 
 The app demonstrates certain use cases of simplifying jargon related to Australian Treasury and Public Service Commission resources.
