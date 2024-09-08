@@ -11,12 +11,16 @@ This solution aims to leverage AI to transform bureaucratic government content i
 
 ![High level Solution](diagram.png)
 
+
 ### Fully Functional Demo App:
 You can access fully functional application at [**KoalaAI**](https://dev.digionboard.centelon.com/govhack)
 
 The app demonstrates certain use cases of simplifying jargon related to Australian Treasury and Public Service Commission resources.
 
-Examples are as follows -
+Please find detailed [presentation](AI-Driven Content Transformation for GovHack Presentation.pdf) that walks through the details.
+
+
+### Examples:
 
 **Budget:**
 Key findings from the federal budget 2024 Australia
