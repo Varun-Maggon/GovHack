@@ -1,4 +1,4 @@
-#KoalaAI : AI to Simplify Bureaucratic jargon into plain English.
+# KoalaAI : AI to Simplify Bureaucratic jargon into plain English.
 
 The link for the challenge can be found [here](https://hackerspace.govhack.org/challenges/use_ai_to_transform_bureaucratic_jargon_into_plain_english).
 
