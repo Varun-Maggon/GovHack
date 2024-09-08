@@ -45,4 +45,4 @@ Questions
 2. Provide summary of key provisions regarding storage of hazardous materials
 
 ### Target State Design System:
-This document outlines target state design system for the app.
+This [document](koala%20AI%20Design%20System.pdf) outlines target state design system for the app.
