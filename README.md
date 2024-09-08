@@ -45,4 +45,10 @@ Questions
 2. Provide summary of key provisions regarding storage of hazardous materials
 
 ### Target State Design System:
+![](koalaai.png)
 This [document](koala%20AI%20Design%20System.pdf) outlines target state design system for the app.
+
+### Solution Approach
+Detailed Solution approach can be found in this [document](AI-Driven Content Transformation for GovHack.pdf).
+Thankful to [Centelon Pty Ltd.](https://www.centelon.com) for kindly allowing to use [METIZ Zero Code Platform](https://metiz.ai/) to get the fully working app up and running just in two days!
+
